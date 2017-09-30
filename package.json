@@ -1,0 +1,15 @@
+{
+  "name": "msaic",
+  "version": "0.1.0",
+  "description": "Minesweeper artificial inteligence challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha lib/**/*.spec.js"
+  },
+  "author": "thehomelessducs",
+  "license": "WTFPL",
+  "dependencies": {
+    "mocha": "^3.5.3",
+    "should": "^13.1.0"
+  }
+}
