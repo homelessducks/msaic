@@ -4,7 +4,8 @@
   "description": "Minesweeper artificial inteligence challenge",
   "main": "index.js",
   "scripts": {
-    "test": "mocha lib/**/*.spec.js"
+    "test": "mocha lib/**/*.spec.js",
+    "test:watch": "mocha -w lib/**/*.spec.js"
   },
   "author": "thehomelessducs",
   "license": "WTFPL",
