@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "mocha -r should \"lib/**/*.spec.js\"",
-    "test:watch": "mocha -wr \"should lib/**/*.spec.js\""
+    "test:watch": "mocha -wr should \"lib/**/*.spec.js\""
   },
   "author": "thehomelessducs",
   "license": "WTFPL",
