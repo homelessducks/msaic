@@ -10,7 +10,7 @@
   "author": "thehomelessducs",
   "license": "WTFPL",
   "dependencies": {
-    "mocha": "^3.5.3",
+    "mocha": "^5.0.3",
     "should": "^13.1.0"
   }
 }
